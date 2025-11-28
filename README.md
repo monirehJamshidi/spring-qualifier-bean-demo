@@ -14,12 +14,12 @@ Multiple implementations of the Car interface (BMW and Kia) exist, and a Manager
 
 ## 📂 Project Structure
 
-src/main/java/org/j2os/
-├─ Car.java
-├─ BMW.java
-├─ Kia.java
-├─ Manager.java
-├─ AppConfig.java
+src/main/java/org/j2os/\
+├─ Car.java\
+├─ BMW.java\
+├─ Kia.java\
+├─ Manager.java\
+├─ AppConfig.java\
 └─ Main.java
 
 
