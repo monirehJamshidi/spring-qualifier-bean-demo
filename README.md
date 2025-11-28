@@ -24,8 +24,6 @@ src/main/java/org/j2os/\
 
 
 
-
-
 ## 🧩 Key Features
 - Java-based Spring configuration (no XML)
 - Bean definitions with @Bean methods
