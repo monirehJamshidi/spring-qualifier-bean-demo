@@ -6,12 +6,12 @@
 
 ## ✅ ویژگی‌های این نسخه
 
-- بدون هیچ @Component یا @Service
+ بدون هیچ @Component یا @Service
 
-- همه Beanها با @Bean تعریف شده‌اند
+ همه Beanها با @Bean تعریف شده‌اند
 
-- Qualifier برای انتخاب Bean مشخص استفاده شده است
+ با Qualifier برای انتخاب Bean مشخص استفاده شده است
 
-- Prototype scope روی Manager
+ با Prototype scope روی Manager
 
-- کاملاً مدرن و تمیز با JavaConfig
+ کاملاً مدرن و تمیز با JavaConfig
